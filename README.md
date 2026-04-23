@@ -11,12 +11,6 @@ I am an experienced **Acquisition Analyst and Financial modling intern** with a 
 * **Data:** SQL (W3Schools), Python (Learning Pandas/NumPy/matplotlib)
 * **Tools:** Advanced Excel, external data integration
 
-### 📚 Current Learning Roadmap (2026)
-* [ ] **SQL Mastery:** Data extraction for financial datasets
-* [ ] **Financial Engineering:** Columbia University / Coursera
-* [ ] **Risk Dashboard:** Building a portfolio using Python
-
----
 
 ### 📫 How to reach me
 * **Email:** ssangho0615@gmail.com
