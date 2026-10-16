@@ -1,16 +1,15 @@
-# Hi, I'm Andrew Lee. 👋
+# Hi, I'm Andrew Lee 👋
 
-### 🎯 Goal: Transitioning to Risk Management / Investment Analyst in NYC (Nov 2026)
+Finance graduate from Baruch College (BBA, 3.8 GPA) based in New York. I use Python and SQL to build risk, valuation, and trading models with real market data.
 
-I am an experienced **Acquisition Analyst and Financial modling intern** with a strong background in financial modeling and asset valuation. Currently, I am expanding my technical toolkit to include **SQL and Python** to bridge the gap between traditional finance and data-driven risk management.
+### 📊 Projects
+- **[Quant-Strategies](https://github.com/Andrew-lee0615/Quant-Strategies)**: Trend-following strategy backtested on QQQ, TQQQ, and BTC. Profit factors of 3.2–4.2, max drawdowns of 29–39% vs. ~80% for buy-and-hold.
+- **Value-at-Risk Analysis** *(in progress)*: Historical, parametric, and Monte Carlo VaR on semiconductor and AI infrastructure stocks vs. SPY, with backtesting.
 
----
+### 🛠 Skills
+- **Finance:** Risk management, stress testing, DCF, credit analysis
+- **Data:** Python (pandas, NumPy, matplotlib), SQL
+- **Tools:** Excel VBA, Pine Script, Bloomberg
 
-### 🛠 Tech Stack
-* **Finance:** Financial Modeling, DCF, Asset Valuation, Credit Risk
-* **Data:** SQL (W3Schools), Python (Learning Pandas/NumPy/matplotlib)
-* **Tools:** Advanced Excel, external data integration
-
-
-### 📫 How to reach me
-* **Email:** ssangho0615@gmail.com
+### 📫 Contact
+[LinkedIn](https://www.linkedin.com/in/YOUR-ID) · ssangho0615@gmail.com
