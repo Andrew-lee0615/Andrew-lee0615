@@ -12,4 +12,6 @@ Finance graduate from Baruch College (BBA, 3.8 GPA) based in New York. I use Pyt
 - **Tools:** Excel VBA, Pine Script, Bloomberg
 
 ### 📫 Contact
-[LinkedIn](www.linkedin.com/in/andrew-lee-721370253) · ssangho0615@gmail.com
+[LinkedIn](www.linkedin.com/in/andrew-lee-721370253
+
+) · ssangho0615@gmail.com
